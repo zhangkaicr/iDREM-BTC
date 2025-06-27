@@ -20,7 +20,12 @@ https://www.bilibili.com/
 
 # English
 
-
-## 英语版本视频说明文件见Youtube链接
+## Description
+1. This library contains the model building source code, sample data and instructions for using the web tool for the article "Real-time Multidimensional Prognostic System for Immuno-chemotherapy in Advanced Biliary Tract Cancer".
+2. For ease of use, we have created a web shiny tool. The tool requires you to upload your own data and make dynamic real-time predictions for each patient. If you upload data for multiple patients, you can evaluate the performance of the model based on multiple patients.
+3. The web version of the tool has model building code and variable descriptions. The sample data provides detailed definitions of the variables. If you need to make predictions based on your own data, please refer to the sample data to organize your data and upload it to the shiny tool.
+4. For sample data examples, see the example_data folder, where the example_data_iDREM_BTC.xlsx file is the test file for the conventional Model, and the example_data_iDREM_pro_BTC.xlsx is the test data for the extended model (PDL1, TMB and MSI status data are added).
+   
+## English version video instructions see Youtube link
 
 https://www.youtube.com/
