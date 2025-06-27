@@ -1,0 +1,26 @@
+# Model Building Code
+
+# cox model
+CoxFit2 <- coxph(Surv(months, status2) ~ age_grade + tumor_burden_grade + obstruction_region + ascites + TBil_grade + CRP + CA199 + PD_L1 + MSI + TMB, data = df2)
+
+# longitudinal model
+fm9 <- lme(LOG_CRP ~ ns(month, 3) + NLR, data = df,
+           random = ~ ns(month, 3) | id)
+
+fm21 <- lme(LOG_CA199 ~ ns(month, 3) + tumor_burden, data = df,
+           random = ~ ns(month, 3) | id)
+
+fm6 <- mixed_model(
+    TBil_grade ~ month + obstruction_region,   
+    data = df,
+    random = ~ month | id,
+    family = binomial(),  
+)
+
+jointFit2 <- 
+  jm(Surv_object = CoxFit2, 
+     Mixed_objects = list(fm9,fm21,fm6),  
+     time_var = "month", 
+     id_var = "id", 
+     n_thin = 1L, n_iter = 15000L, n_burnin = 5000L)
+summary(jointFit2)
