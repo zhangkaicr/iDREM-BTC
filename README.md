@@ -1,5 +1,7 @@
 # 中文版
 
+https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif
+
 ## 说明
 
 1. 本库为文章 Real-time Multidimensional Prognostic System for Immuno-chemotherapy in Advanced Biliary Tract Cancer 的模型构建源代码，样例数据与网页工具使用说明。
