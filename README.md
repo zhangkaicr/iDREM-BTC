@@ -1,5 +1,5 @@
 
-![image](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif)
+![image](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/logo.png)
 
 
 ![image](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif)
