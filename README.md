@@ -1,6 +1,6 @@
 # 中文版
 
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif)
 
 ## 说明
 
