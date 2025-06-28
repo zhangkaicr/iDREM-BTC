@@ -1,6 +1,6 @@
 # 中文版
 
-![image](https://github.com/YourUsername/YourRepo/blob/master/public/image/yourimage.png)
+![image]([https://github.com/YourUsername/YourRepo/blob/master/public/image/yourimage.png](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif))
 
 ## 说明
 
