@@ -1,6 +1,11 @@
-# 中文版
 
 ![image](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif)
+
+
+![image](https://github.com/zhangkaicr/iDREM-BTC/blob/main/image/Individual%20dynamic%20prediction.gif)
+
+# 中文版
+
 
 ## 说明
 
