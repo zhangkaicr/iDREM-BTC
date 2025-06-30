@@ -22,7 +22,7 @@ http://xiyoucloud.pro:20229/
 
 ## 中文版视频说明书见B站链接
 
-https://www.bilibili.com/
+https://www.bilibili.com/video/BV19ogrzDEJP/?vd_source=42c88fb50fd1a48cadfbbf87f177878b
 
 
 
