@@ -43,4 +43,4 @@ http://xiyoucloud.pro:20229/
    
 ## English version video instructions see Youtube link
 
-https://www.youtube.com/
+https://www.youtube.com/watch?v=wgJBiTNJVek
