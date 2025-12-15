@@ -18,7 +18,7 @@
    
 ## shiny快速应用可以应用以下网址
 
-http://xiyoucloud.pro:20229/
+[http://xiyoucloud.pro:20229/](http://sw2-dynamic.xiyoucloud.pro:23612/sample-apps/iDREAM-BTC-shinyapp/)
 
 ## 中文版视频说明书见B站链接
 
@@ -39,7 +39,7 @@ https://www.bilibili.com/video/BV19ogrzDEJP/?vd_source=42c88fb50fd1a48cadfbbf87f
 
 ## Shiny quick application can apply the following URLs
 
-http://xiyoucloud.pro:20229/
+[http://xiyoucloud.pro:20229/](http://sw2-dynamic.xiyoucloud.pro:23612/sample-apps/iDREAM-BTC-shinyapp/)
    
 ## English version video instructions see Youtube link
 
