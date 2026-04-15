@@ -43,4 +43,4 @@ https://www.bilibili.com/video/BV19ogrzDEJP/?vd_source=42c88fb50fd1a48cadfbbf87f
    
 ## English version video instructions see Youtube link
 
-https://www.youtube.com/watch?v=hcdZKoZsCfE
+https://www.youtube.com/watch?v=1g86vOeczHA
